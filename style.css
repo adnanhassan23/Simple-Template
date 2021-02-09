@@ -1,0 +1,37 @@
+.container {
+    border: 2px solid green;
+}
+
+
+
+#header {
+    background-color: orange;
+    padding: 3px 0px;
+}
+
+#menu {
+    background-color: pink;
+    padding: 3px 3px;
+    
+}
+
+#menu ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#content {
+
+}
+
+#sidebar {
+    background-color: lightblue;
+}
+
+#footer {
+    background-color: orange;
+}
